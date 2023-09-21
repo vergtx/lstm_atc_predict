@@ -1,0 +1,5 @@
+Data Subset,Bay Match (%),Row Match (%),Tier Match (%)
+First 50 Records,98.0,86.0,92.0
+First 100 Records,97.0,88.0,93.0
+First 900 Records,98.33333333333333,94.0,95.44444444444444
+First 1800 Records,98.11111111111111,93.22222222222221,94.94444444444444
